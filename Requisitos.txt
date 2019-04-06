@@ -4,12 +4,12 @@
 
 ///Cadastrar professores.
 
-Realizar a matrícula de um conjunto de alunos (não são todos os alunos!!) em um conjunto de disciplinas 
-(não são todas as disciplinas!!) para uma determinada turma. 
+///Realizar a matrícula de um conjunto de alunos (não são todos os alunos!!) em um conjunto de disciplinas 
+///(não são todas as disciplinas!!) para uma determinada turma. 
 
-Ex: Matricular Maria e João nas disciplinas de Paradigmas e Circuitos, turma t1.
+///Ex: Matricular Maria e João nas disciplinas de Paradigmas e Circuitos, turma t1.
 
-Cancelar a matrícula de um conjunto de alunos de um conjunto de disciplinas para uma determinada turma.
+///Cancelar a matrícula de um conjunto de alunos de um conjunto de disciplinas para uma determinada turma.
 
 //Vincular professores a disciplinas: Vincular um professor a um conjunto de disciplinas para uma determinada turma. 
 //Nota: Se já houver professor na turma, sobrescrever.
