@@ -1,0 +1,280 @@
+# depslib dependency file v1.0
+1553084746 source:d:\eu\projetocadastro2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tela.h"
+
+1552413646 d:\eu\projetocadastro2\tela.h
+	<windows.h>
+
+1552989998 source:c:\users\marcos\desktop\projetocadastro2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tela.h"
+
+1552413646 c:\users\marcos\desktop\projetocadastro2\tela.h
+	<windows.h>
+
+1553708902 source:e:\eu\projetocadastro2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tela.h"
+	"Cadastroas.h"
+
+1553647412 e:\eu\projetocadastro2\tela.h
+	<windows.h>
+
+1553723034 source:h:\eu\projetocadastro2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tela.h"
+	"Buscas.h"
+	"Cadastros.h"
+	"GerenciamentoDeAlunos.h"
+	"GerenciamentoDeProfessores.h"
+	"ImpressaoDeCadastros.h"
+	"Menu.h"
+
+1553647412 h:\eu\projetocadastro2\tela.h
+	<windows.h>
+
+1553708422 e:\eu\projetocadastro2\cadastros.h
+
+1553708830 e:\eu\projetocadastro2\cadastroas.h
+
+1553708756 e:\eu\projetocadastro2\cadastros.c
+
+1553708830 h:\eu\projetocadastro2\cadastroas.h
+
+1553709074 h:\eu\projetocadastro2\impressores.h
+
+1553723240 h:\eu\projetocadastro2\buscas.h
+
+1553722316 h:\eu\projetocadastro2\cadastros.h
+
+1553722920 h:\eu\projetocadastro2\gerenciamentodealunos.h
+
+1553722962 h:\eu\projetocadastro2\gerenciamentodeprofessores.h
+
+1553722608 h:\eu\projetocadastro2\impressaodecadastros.h
+
+1553723272 h:\eu\projetocadastro2\menu.h
+
+1553957796 source:c:\users\marcos\desktop\proj. paradigmas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tela.h"
+	"Buscas.h"
+	"Cadastros.h"
+	"GerenciamentoDeAlunos.h"
+	"GerenciamentoDeProfessores.h"
+	"ImpressaoDeCadastros.h"
+	"Menu.h"
+	"ImpressaoDeVinculosAluno.h"
+	"ImpressaoDeVinculoDisciplina.h"
+	"ImpressaoDeVinculoProfessor.h"
+	"FuncoesDeCorrecao.h"
+
+1553790216 c:\users\marcos\desktop\proj. paradigmas\tela.h
+	<windows.h>
+
+1553955566 c:\users\marcos\desktop\proj. paradigmas\buscas.h
+
+1553959749 c:\users\marcos\desktop\proj. paradigmas\cadastros.h
+
+1553955831 c:\users\marcos\desktop\proj. paradigmas\gerenciamentodealunos.h
+
+1553954902 c:\users\marcos\desktop\proj. paradigmas\gerenciamentodeprofessores.h
+
+1553954899 c:\users\marcos\desktop\proj. paradigmas\impressaodecadastros.h
+
+1553814347 c:\users\marcos\desktop\proj. paradigmas\menu.h
+
+1553723370 c:\users\marcos\desktop\proj. paradigmas\impressaodevinculosaluno.h
+
+1553955522 c:\users\marcos\desktop\proj. paradigmas\impressaodevinculodisciplina.h
+
+1553838237 c:\users\marcos\desktop\proj. paradigmas\impressaodevinculoprofessor.h
+
+1553959301 c:\users\marcos\desktop\proj. paradigmas\funcoesdecorrecao.h
+	<ctype.h>
+
+1553976663 source:c:\users\igreja b. vitoria\downloads\projeto paradigmas\proj. paradigmas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tela.h"
+	"Buscas.h"
+	"Cadastros.h"
+	"GerenciamentoDeAlunos.h"
+	"GerenciamentoDeProfessores.h"
+	"ImpressaoDeCadastros.h"
+	"Menu.h"
+	"ImpressaoDeVinculosAluno.h"
+	"ImpressaoDeVinculoDisciplina.h"
+	"ImpressaoDeVinculoProfessor.h"
+	"FuncoesDeCorrecao.h"
+
+1553949530 c:\users\igreja b. vitoria\downloads\projeto paradigmas\proj. paradigmas\tela.h
+	<windows.h>
+
+1553949524 c:\users\igreja b. vitoria\downloads\projeto paradigmas\proj. paradigmas\buscas.h
+
+1553949524 c:\users\igreja b. vitoria\downloads\projeto paradigmas\proj. paradigmas\cadastros.h
+
+1553949524 c:\users\igreja b. vitoria\downloads\projeto paradigmas\proj. paradigmas\gerenciamentodealunos.h
+
+1553949524 c:\users\igreja b. vitoria\downloads\projeto paradigmas\proj. paradigmas\gerenciamentodeprofessores.h
+
+1553949526 c:\users\igreja b. vitoria\downloads\projeto paradigmas\proj. paradigmas\impressaodecadastros.h
+
+1553949528 c:\users\igreja b. vitoria\downloads\projeto paradigmas\proj. paradigmas\menu.h
+
+1553949524 c:\users\igreja b. vitoria\downloads\projeto paradigmas\proj. paradigmas\impressaodevinculosaluno.h
+
+1553977454 c:\users\igreja b. vitoria\downloads\projeto paradigmas\proj. paradigmas\impressaodevinculodisciplina.h
+
+1553978323 c:\users\igreja b. vitoria\downloads\projeto paradigmas\proj. paradigmas\impressaodevinculoprofessor.h
+
+1553949524 c:\users\igreja b. vitoria\downloads\projeto paradigmas\proj. paradigmas\funcoesdecorrecao.h
+	<ctype.h>
+
+1554087076 source:c:\users\marcos\desktop\projeto paradigmas\proj. paradigmas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tela.h"
+	"Buscas.h"
+	"Cadastros.h"
+	"GerenciamentoDeAlunos.h"
+	"GerenciamentoDeProfessores.h"
+	"ImpressaoDeCadastros.h"
+	"Menu.h"
+	"ImpressaoDeVinculosAluno.h"
+	"ImpressaoDeVinculoDisciplina.h"
+	"ImpressaoDeVinculoProfessor.h"
+
+1553998956 c:\users\marcos\desktop\projeto paradigmas\proj. paradigmas\tela.h
+	<windows.h>
+
+1553999901 c:\users\marcos\desktop\projeto paradigmas\proj. paradigmas\buscas.h
+
+1554076833 c:\users\marcos\desktop\projeto paradigmas\proj. paradigmas\cadastros.h
+
+1553998266 c:\users\marcos\desktop\projeto paradigmas\proj. paradigmas\gerenciamentodealunos.h
+
+1554085786 c:\users\marcos\desktop\projeto paradigmas\proj. paradigmas\gerenciamentodeprofessores.h
+
+1554007756 c:\users\marcos\desktop\projeto paradigmas\proj. paradigmas\impressaodecadastros.h
+
+1553949528 c:\users\marcos\desktop\projeto paradigmas\proj. paradigmas\menu.h
+
+1553949524 c:\users\marcos\desktop\projeto paradigmas\proj. paradigmas\impressaodevinculosaluno.h
+
+1554075754 c:\users\marcos\desktop\projeto paradigmas\proj. paradigmas\impressaodevinculodisciplina.h
+
+1554009717 c:\users\marcos\desktop\projeto paradigmas\proj. paradigmas\impressaodevinculoprofessor.h
+
+1554568754 source:h:\projeto paradigmas\proj. paradigmas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tela.h"
+	"Buscas.h"
+	"Cadastros.h"
+	"GerenciamentoDeAlunos.h"
+	"GerenciamentoDeProfessores.h"
+	"ImpressaoDeCadastros.h"
+	"MENU.H"
+	"ImpressaoDeVinculosAluno.h"
+	"ImpressaoDeVinculoDisciplina.h"
+	"ImpressaoDeVinculoProfessor.h"
+
+1554561934 h:\projeto paradigmas\proj. paradigmas\tela.h
+	<windows.h>
+
+1554557340 h:\projeto paradigmas\proj. paradigmas\buscas.h
+
+1554557376 h:\projeto paradigmas\proj. paradigmas\cadastros.h
+
+1554568844 h:\projeto paradigmas\proj. paradigmas\gerenciamentodealunos.h
+
+1554568492 h:\projeto paradigmas\proj. paradigmas\gerenciamentodeprofessores.h
+
+1554568446 h:\projeto paradigmas\proj. paradigmas\impressaodecadastros.h
+
+1554558334 h:\projeto paradigmas\proj. paradigmas\menu.h
+
+1554568584 h:\projeto paradigmas\proj. paradigmas\impressaodevinculosaluno.h
+
+1554568490 h:\projeto paradigmas\proj. paradigmas\impressaodevinculodisciplina.h
+
+1554568584 h:\projeto paradigmas\proj. paradigmas\impressaodevinculoprofessor.h
+
+1554221406 source:d:\projeto paradigmas\proj. paradigmas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tela.h"
+	"Buscas.h"
+	"Cadastros.h"
+	"GerenciamentoDeAlunos.h"
+	"GerenciamentoDeProfessores.h"
+	"ImpressaoDeCadastros.h"
+	"Menu.h"
+	"ImpressaoDeVinculosAluno.h"
+	"ImpressaoDeVinculoDisciplina.h"
+	"ImpressaoDeVinculoProfessor.h"
+
+1553998958 d:\projeto paradigmas\proj. paradigmas\tela.h
+	<windows.h>
+
+1554221358 d:\projeto paradigmas\proj. paradigmas\buscas.h
+
+1554076834 d:\projeto paradigmas\proj. paradigmas\cadastros.h
+
+1554182290 d:\projeto paradigmas\proj. paradigmas\gerenciamentodealunos.h
+
+1554174850 d:\projeto paradigmas\proj. paradigmas\gerenciamentodeprofessores.h
+
+1554007758 d:\projeto paradigmas\proj. paradigmas\impressaodecadastros.h
+
+1553949528 d:\projeto paradigmas\proj. paradigmas\menu.h
+
+1553949524 d:\projeto paradigmas\proj. paradigmas\impressaodevinculosaluno.h
+
+1554075756 d:\projeto paradigmas\proj. paradigmas\impressaodevinculodisciplina.h
+
+1554009718 d:\projeto paradigmas\proj. paradigmas\impressaodevinculoprofessor.h
+
+1554314684 source:g:\projeto paradigmas\proj. paradigmas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tela.h"
+	"Buscas.h"
+	"Cadastros.h"
+	"GerenciamentoDeAlunos.h"
+	"GerenciamentoDeProfessores.h"
+	"ImpressaoDeCadastros.h"
+	"MENU.H"
+	"ImpressaoDeVinculosAluno.h"
+	"ImpressaoDeVinculoDisciplina.h"
+	"ImpressaoDeVinculoProfessor.h"
+
+1553998958 g:\projeto paradigmas\proj. paradigmas\tela.h
+	<windows.h>
+
+1554224838 g:\projeto paradigmas\proj. paradigmas\buscas.h
+
+1554076834 g:\projeto paradigmas\proj. paradigmas\cadastros.h
+
+1554289494 g:\projeto paradigmas\proj. paradigmas\gerenciamentodealunos.h
+
+1554276776 g:\projeto paradigmas\proj. paradigmas\gerenciamentodeprofessores.h
+
+1554232568 g:\projeto paradigmas\proj. paradigmas\impressaodecadastros.h
+
+1554234544 g:\projeto paradigmas\proj. paradigmas\menu.h
+
+1554277712 g:\projeto paradigmas\proj. paradigmas\impressaodevinculosaluno.h
+
+1554075756 g:\projeto paradigmas\proj. paradigmas\impressaodevinculodisciplina.h
+
+1554260644 g:\projeto paradigmas\proj. paradigmas\impressaodevinculoprofessor.h
+
