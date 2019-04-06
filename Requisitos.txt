@@ -1,40 +1,23 @@
 ///Cadastrar alunos.
-
 ///Cadastrar disciplinas. Cada disciplina terá 2 turmas (t1 e t2)
-
 ///Cadastrar professores.
 
 ///Realizar a matrícula de um conjunto de alunos (não são todos os alunos!!) em um conjunto de disciplinas 
 ///(não são todas as disciplinas!!) para uma determinada turma. 
 
 ///Ex: Matricular Maria e João nas disciplinas de Paradigmas e Circuitos, turma t1.
-
 ///Cancelar a matrícula de um conjunto de alunos de um conjunto de disciplinas para uma determinada turma.
 
 //Vincular professores a disciplinas: Vincular um professor a um conjunto de disciplinas para uma determinada turma. 
 //Nota: Se já houver professor na turma, sobrescrever.
-
 ///Remover vínculo de um conjunto de professores de um conjunto de disciplinas para uma determinada turma.
 
 ///Imprimir a lista de todos os alunos (do cadastro)
-
-
 ///Imprimir a lista de todas as disciplinas (do cadastro)
-
-
 ///Imprimir a lista de todos os professores (do cadastro).
 
-
 ///Imprimir a lista de disciplinas de um aluno
-
-
 ///Imprimir a lista de alunos em uma disciplina e turma.
-
-
 ///Imprimir a lista de alunos em uma disciplina, independente da turma
-
-
 ///Imprimir a lista de todas as disciplinas ministradas por um professor (independente de turma).
-
-
 ///Imprimir a lista de todos os professores vinculados a uma disciplina (independente de turma).
